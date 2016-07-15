@@ -5,8 +5,8 @@ Made with HTML5, CSS3 & jQuery.
 ///////
 Mi primer template, creado en 2013, dedicado a webs personales, con un diseño diferente, dinámico y completamente responsive.
 
-100% Responsive Design <br>
-100% Social Integration
-Un diseño con una estructura distinta y dinámica, agradable para el usuario
-Web cargada de efectos y animaciones ligeras
-Bien documentado y fácil de modificar
+<li>100% Responsive Design </li><br>
+<li>100% Social Integration </li><br>
+<li>Un diseño con una estructura distinta y dinámica, agradable para el usuario </li><br>
+<li>Web cargada de efectos y animaciones ligeras </li><br>
+<li>Bien documentado y fácil de modificar </li><br>
